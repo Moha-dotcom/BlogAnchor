@@ -17,4 +17,6 @@ public class Blog {
     private Writer writer;
     private String header;
     private String body;
+
+
 }
